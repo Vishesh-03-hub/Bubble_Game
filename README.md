@@ -32,6 +32,8 @@ A dynamic, web-based interactive game built using **Vanilla JavaScript, HTML5, a
 Experience the game live in your browser:
 👉 **[Play Bubble Game Live](https://bubble-game-by-vishesh-gupta.netlify.app/)**
 
+<img width="1734" height="874" alt="image" src="https://github.com/user-attachments/assets/0caa686e-834c-4261-a849-3ef8b35d608c" />
+
 ---
 
 ## 💻 Local Setup & Development
